@@ -1,0 +1,3 @@
+class 
+object
+why python is called OOP?
